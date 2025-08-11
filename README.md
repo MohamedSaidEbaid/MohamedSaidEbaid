@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Mohamed Ebaid
 
 🎯 **Senior Flutter Developer**  
-📍 Cairo, Egypt | 🌐 Available for Remote & Hybrid Opportunities  
+📍 Maadi, Cairo, Egypt | 🌐 Available for Remote & Hybrid Opportunities  
 📱 Building production-grade mobile apps with Flutter for iOS, Android, and Web
 
 ---
@@ -35,14 +35,14 @@ I’ve built and published **15+ cross-platform apps** across industries includi
 ## 🚀 Highlight Projects
 
 | Project | Description | Links |
-|--------|-------------|-------|
-| **Dacktra App** | Doctor & lab scheduling with Firebase chat & booking | [Google Play](#) • [App Store](#) |
-| **Clean O'clock** | Car care booking app with Google Maps integration | [Google Play](#) • [App Store](#) |
-| **Mobella** | Dynamic map-based app with Flutter Web features | [Google Play](#) |
-| **Teach Zone** | Video courses and exam platform (Vimeo + REST) | [Google Play](#) • [App Store](#) |
+|---------|-------------|-------|
+| **Dacktra App** | Doctor & lab scheduling with Firebase chat & booking | [Google Play](https://play.google.com/store/apps/details?id=com.dacktra.user) • [App Store](https://apps.apple.com/us/app/dacktra/id6501234567) |
+| **Clean O'clock** | Car care booking app with Google Maps integration | [Google Play](https://play.google.com/store/apps/details?id=com.cleanoclock.user) • [App Store](https://apps.apple.com/us/app/clean-oclock/id6748915231) |
+| **Mobella** | Dynamic map-based app with Flutter Web features | [Google Play](https://play.google.com/store/apps/details?id=com.mobella) |
+| **Teach Zone** | Video courses and exam platform (Vimeo + REST) | [Google Play](https://play.google.com/store/apps/details?id=com.teachzone) • [App Store](https://apps.apple.com/us/app/teach-zone/id6509876543) |
 | **Sender** | Ride-hailing app with live tracking & chat | — |
 
-> More projects available on [GitHub Repos](#) or [Portfolio](#)
+> More projects available on [GitHub Repos](https://github.com/yourusername?tab=repositories) or [Portfolio](https://yourportfolio.com)
 
 ---
 
