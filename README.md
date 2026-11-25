@@ -8,8 +8,8 @@
 
 ## 🧑‍💻 About Me
 
-I’m a passionate mobile app developer with **5+ years of experience**, specializing in **Flutter**.  
-I’ve built and published **15+ cross-platform apps** across industries including **healthcare, e-commerce, education, and logistics**.
+I’m a passionate mobile app developer with **6+ years of experience**, specializing in **Flutter**.  
+I’ve built and published **20+ cross-platform apps** across industries including **healthcare, e-commerce, education, and logistics**.
 
 💡 I focus on:
 - Clean Architecture & Scalable Codebases  
